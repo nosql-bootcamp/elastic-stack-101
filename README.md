@@ -40,10 +40,10 @@ Une fois l'archive dézippée, vous pouvez valider l'installation en exécutant 
 bin/logstash -V
 ```
 
- Installez maintenant le plugin `logstash-input-websocket` à l'aide de la commande suivante :
- ```bash
- bin/logstash-plugin install logstash-input-websocket
- ```
+Installez maintenant le plugin `logstash-input-websocket` à l'aide de la commande suivante :
+```bash
+bin/logstash-plugin install logstash-input-websocket
+```
 
 ### Metricbeat
 
