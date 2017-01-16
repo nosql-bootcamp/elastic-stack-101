@@ -2,7 +2,7 @@
 
 ![](https://www.elastic.co/assets/blt40d641b66539f69c/the-elastic-stack-thumb.png)
 
-**Elastic Stack 101** est un workshop permettant de découvrir la base de données NoSQL ElasticSearch et son écosystème, étape par étape.
+**Elastic Stack 101** est un workshop permettant de découvrir la base de données NoSQL Elastic Stack et son écosystème, étape par étape.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
